@@ -30,7 +30,7 @@
 
 > Открываем в консоли папку с jar-ником и пишем команду
 > 
-> `java -jar fromEmail fromPassword toEmail directoryPath period` 
+> `java -jar ScreenshotSender.jar fromEmail fromPassword toEmail directoryPath period` 
 > 
 > - `fromEmail` – подготовленная gmail-почта отправителя
 > - `fromPassword` – пароль от этой почты
