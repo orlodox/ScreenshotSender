@@ -6,7 +6,9 @@
 > Друг находит ответы на вопросы и отправляет их в каком-нибудь мессенджере на телефон сдающего.
 > А телефон сдающего на протяжении тестирования закреплён на малоактивной области экрана.
  
-![Terminal](https://github.com/Orlodox/ScreenshotSender/blob/master/Screenshot%20at%20Dec%2015%2018-22-31.png) ![Email client](https://github.com/Orlodox/ScreenshotSender/blob/master/Screenshot%20at%20Dec%2015%2018-25-06.png)
+![Terminal](https://github.com/Orlodox/ScreenshotSender/blob/master/Screenshot%20at%20Dec%2015%2018-22-31.png) 
+![Email client](https://github.com/Orlodox/ScreenshotSender/blob/master/Screenshot%20at%20Dec%2015%2018-25-06.png)
+![Smatrphone](https://github.com/Orlodox/ScreenshotSender/blob/master/Screenshot%20at%20Dec%2015%2018-41-54.png)
 
 
 **Преимущества:**
