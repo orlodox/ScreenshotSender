@@ -43,6 +43,8 @@
 **Возможные проблемы:**
 > 1. Ошибка «could not convert socket to TSL». Решение – выключение антивирусника, перезагрузка компьютера, перезапуск jar-ника с выключенным антивирусником.
 > 
-> 2. Скриншот захватывает не весь экран. Решение – вместо обычного ScreenshotSender.jar скачать [dimFix.jar](https://github.com/Orlodox/ScreenshotSender/raw/master/dimFix.jar/) и запустить его аналогичным образом: `java -jar dimFix.jar fromEmail fromPassword toEmail directoryPath period`.
+> 2. Скриншот захватывает не весь экран. Решение – вместо обычного ScreenshotSender.jar скачать [dimFix.jar](https://github.com/Orlodox/ScreenshotSender/raw/master/dimFix.jar/) и запустить его аналогичным образом: 
+>
+>`java -jar dimFix.jar fromEmail fromPassword toEmail directoryPath period` .
 
 _Вопросы и всё остальное в [телеграм](https://t.me/orlodox) или в [ВК](https://vk.com/orlodox) : @orlodox_
